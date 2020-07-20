@@ -1,0 +1,1002 @@
+512: 	0x1218
+514: 	0x5449
+516: 	0x4354
+518: 	0x4143
+520: 	0x2062
+522: 	0x7920
+524: 	0x4461
+526: 	0x7669
+528: 	0x6420
+530: 	0x5749
+532: 	0x4e54
+534: 	0x4552
+536: 	0x6b00
+538: 	0x6c00
+540: 	0x80b0
+542: 	0x81c0
+544: 	0xa3e6
+546: 	0xf155
+548: 	0xa3c4
+550: 	0xff65
+552: 	0xa3b4
+554: 	0xff55
+556: 	0xa3e6
+558: 	0xf165
+560: 	0x8b00
+562: 	0x8c10
+564: 	0xe0
+566: 	0x6e01
+568: 	0x6013
+570: 	0x6103
+572: 	0xa39a
+574: 	0xd011
+576: 	0x7008
+578: 	0x302b
+580: 	0x123e
+582: 	0x6013
+584: 	0x7108
+586: 	0x3123
+588: 	0x123e
+590: 	0x6013
+592: 	0x6103
+594: 	0xa39b
+596: 	0xd01f
+598: 	0x7008
+600: 	0x3033
+602: 	0x1254
+604: 	0x6013
+606: 	0x710f
+608: 	0xd01a
+610: 	0x7008
+612: 	0x3033
+614: 	0x1260
+616: 	0x2366
+618: 	0xf00a
+620: 	0x8100
+622: 	0xa3b4
+624: 	0xf01e
+626: 	0xf065
+628: 	0x4000
+630: 	0x128a
+632: 	0x227c
+634: 	0x126a
+636: 	0x6010
+638: 	0xf018
+640: 	0xf015
+642: 	0xf007
+644: 	0x3000
+646: 	0x1282
+648: 	0xee
+650: 	0x6002
+652: 	0x8e03
+654: 	0x80e0
+656: 	0xf055
+658: 	0xa3d4
+660: 	0x8010
+662: 	0x70ff
+664: 	0x8004
+666: 	0xf01e
+668: 	0xf165
+670: 	0xa3aa
+672: 	0x3e03
+674: 	0xa3af
+676: 	0xd015
+678: 	0x22c8
+680: 	0x3a00
+682: 	0x121c
+684: 	0xa3b4
+686: 	0x6100
+688: 	0x6200
+690: 	0x6301
+692: 	0xf065
+694: 	0x3000
+696: 	0x7101
+698: 	0xf31e
+700: 	0x7201
+702: 	0x3210
+704: 	0x12b4
+706: 	0x3110
+708: 	0x126a
+710: 	0x121c
+712: 	0x6a00
+714: 	0xa3b4
+716: 	0x6001
+718: 	0xf01e
+720: 	0xf865
+722: 	0x6900
+724: 	0x8904
+726: 	0x2344
+728: 	0x8914
+730: 	0x2344
+732: 	0x8924
+734: 	0x234a
+736: 	0x6900
+738: 	0x8934
+740: 	0x2344
+742: 	0x8944
+744: 	0x2344
+746: 	0x8954
+748: 	0x234a
+750: 	0x6900
+752: 	0x8964
+754: 	0x2344
+756: 	0x8974
+758: 	0x2344
+760: 	0x8984
+762: 	0x234a
+764: 	0x6900
+766: 	0x8964
+768: 	0x2344
+770: 	0x8934
+772: 	0x2344
+774: 	0x8904
+776: 	0x234a
+778: 	0x6900
+780: 	0x8974
+782: 	0x2344
+784: 	0x8944
+786: 	0x2344
+788: 	0x8914
+790: 	0x234a
+792: 	0x6900
+794: 	0x8984
+796: 	0x2344
+798: 	0x8954
+800: 	0x2344
+802: 	0x8924
+804: 	0x234a
+806: 	0x6900
+808: 	0x8984
+810: 	0x2344
+812: 	0x8944
+814: 	0x2344
+816: 	0x8904
+818: 	0x234a
+820: 	0x6900
+822: 	0x8964
+824: 	0x2344
+826: 	0x8944
+828: 	0x2344
+830: 	0x8924
+832: 	0x234a
+834: 	0xee
+836: 	0x890e
+838: 	0x890e
+840: 	0xee
+842: 	0x4915
+844: 	0x1354
+846: 	0x493f
+848: 	0x135a
+850: 	0xee
+852: 	0x2366
+854: 	0x7b01
+856: 	0x135e
+858: 	0x2366
+860: 	0x7c01
+862: 	0x2366
+864: 	0x6a01
+866: 	0xf00a
+868: 	0xee
+870: 	0x6305
+872: 	0x640a
+874: 	0xa3af
+876: 	0xd345
+878: 	0x6302
+880: 	0x7406
+882: 	0xa3e6
+884: 	0xfb33
+886: 	0x2388
+888: 	0x6332
+890: 	0x640a
+892: 	0xa3aa
+894: 	0xd345
+896: 	0x632f
+898: 	0x7406
+900: 	0xa3e6
+902: 	0xfc33
+904: 	0xf265
+906: 	0xf029
+908: 	0x2394
+910: 	0xf129
+912: 	0x2394
+914: 	0xf229
+916: 	0xd345
+918: 	0x7305
+920: 	0xee
+922: 	0x7f80
+924: 	0x8080
+926: 	0x8080
+928: 	0x8080
+930: 	0x8080
+932: 	0x8080
+934: 	0x8080
+936: 	0x8080
+938: 	0x1c22
+940: 	0x2222
+942: 	0x1c22
+944: 	0x1408
+946: 	0x1422
+948: 	0x100
+950: 	0x0
+952: 	0x0
+954: 	0x0
+956: 	0x0
+958: 	0x101
+960: 	0x101
+962: 	0x101
+964: 	0x100
+966: 	0x0
+968: 	0x0
+970: 	0x0
+972: 	0x0
+974: 	0x101
+976: 	0x101
+978: 	0x101
+980: 	0x1305
+982: 	0x1b05
+984: 	0x2305
+986: 	0x130d
+988: 	0x1b0d
+990: 	0x230d
+992: 	0x1315
+994: 	0x1b15
+996: 	0x2315
+512	0x1218: 1NNN: Jumps to address NNN
+536	0x6b00: 6XNN: Sets VX to NN
+538	0x6c00: 6XNN: Sets VX to NN
+540	0x80b0: 8XY0: Sets VX to the value of VY
+542	0x81c0: 8XY0: Sets VX to the value of VY
+544	0xa3e6: ANNN: Sets I to the address NNN
+546	0xf155: FX55: Stores V0 to VX (including VX) in memory starting at address I
+548	0xa3c4: ANNN: Sets I to the address NNN
+550	0xff65: FX65: Fills V0 to VX (including VX) with values from memory starting at address I
+552	0xa3b4: ANNN: Sets I to the address NNN
+554	0xff55: FX55: Stores V0 to VX (including VX) in memory starting at address I
+556	0xa3e6: ANNN: Sets I to the address NNN
+558	0xf165: FX65: Fills V0 to VX (including VX) with values from memory starting at address I
+560	0x8b00: 8XY0: Sets VX to the value of VY
+562	0x8c10: 8XY0: Sets VX to the value of VY
+564	0xe0: 00E0: clears the screen
+566	0x6e01: 6XNN: Sets VX to NN
+568	0x6013: 6XNN: Sets VX to NN
+570	0x6103: 6XNN: Sets VX to NN
+572	0xa39a: ANNN: Sets I to the address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+580	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+580	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+582	0x6013: 6XNN: Sets VX to NN
+584	0x7108: 7XNN: Adds NN to VX. (Carry flag is not changed)
+586	0x3123: 3XNN: Skips the next instruction if VX equals NN
+588	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+580	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+580	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+582	0x6013: 6XNN: Sets VX to NN
+584	0x7108: 7XNN: Adds NN to VX. (Carry flag is not changed)
+586	0x3123: 3XNN: Skips the next instruction if VX equals NN
+588	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+580	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+580	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+582	0x6013: 6XNN: Sets VX to NN
+584	0x7108: 7XNN: Adds NN to VX. (Carry flag is not changed)
+586	0x3123: 3XNN: Skips the next instruction if VX equals NN
+588	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+580	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+580	0x123e: 1NNN: Jumps to address NNN
+574	0xd011: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+576	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+578	0x302b: 3XNN: Skips the next instruction if VX equals NN
+582	0x6013: 6XNN: Sets VX to NN
+584	0x7108: 7XNN: Adds NN to VX. (Carry flag is not changed)
+586	0x3123: 3XNN: Skips the next instruction if VX equals NN
+590	0x6013: 6XNN: Sets VX to NN
+592	0x6103: 6XNN: Sets VX to NN
+594	0xa39b: ANNN: Sets I to the address NNN
+596	0xd01f: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+598	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+600	0x3033: 3XNN: Skips the next instruction if VX equals NN
+602	0x1254: 1NNN: Jumps to address NNN
+596	0xd01f: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+598	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+600	0x3033: 3XNN: Skips the next instruction if VX equals NN
+602	0x1254: 1NNN: Jumps to address NNN
+596	0xd01f: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+598	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+600	0x3033: 3XNN: Skips the next instruction if VX equals NN
+602	0x1254: 1NNN: Jumps to address NNN
+596	0xd01f: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+598	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+600	0x3033: 3XNN: Skips the next instruction if VX equals NN
+604	0x6013: 6XNN: Sets VX to NN
+606	0x710f: 7XNN: Adds NN to VX. (Carry flag is not changed)
+608	0xd01a: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+610	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+612	0x3033: 3XNN: Skips the next instruction if VX equals NN
+614	0x1260: 1NNN: Jumps to address NNN
+608	0xd01a: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+610	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+612	0x3033: 3XNN: Skips the next instruction if VX equals NN
+614	0x1260: 1NNN: Jumps to address NNN
+608	0xd01a: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+610	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+612	0x3033: 3XNN: Skips the next instruction if VX equals NN
+614	0x1260: 1NNN: Jumps to address NNN
+608	0xd01a: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+610	0x7008: 7XNN: Adds NN to VX. (Carry flag is not changed)
+612	0x3033: 3XNN: Skips the next instruction if VX equals NN
+616	0x2366: 2NNN: Calls subroutine at NNN
+870	0x6305: 6XNN: Sets VX to NN
+872	0x640a: 6XNN: Sets VX to NN
+874	0xa3af: ANNN: Sets I to the address NNN
+876	0xd345: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+878	0x6302: 6XNN: Sets VX to NN
+880	0x7406: 7XNN: Adds NN to VX. (Carry flag is not changed)
+882	0xa3e6: ANNN: Sets I to the address NNN
+884	0xfb33: FX33: Stores the binary-coded decimal representation of VX
+886	0x2388: 2NNN: Calls subroutine at NNN
+904	0xf265: FX65: Fills V0 to VX (including VX) with values from memory starting at address I
+906	0xf029: FX29: Sets I to the location of the sprite for the character in VX.
+908	0x2394: 2NNN: Calls subroutine at NNN
+916	0xd345: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+918	0x7305: 7XNN: Adds NN to VX. (Carry flag is not changed)
+920	0xee: 00EE: Returns from a subroutine
+910	0xf129: FX29: Sets I to the location of the sprite for the character in VX.
+912	0x2394: 2NNN: Calls subroutine at NNN
+916	0xd345: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+918	0x7305: 7XNN: Adds NN to VX. (Carry flag is not changed)
+920	0xee: 00EE: Returns from a subroutine
+914	0xf229: FX29: Sets I to the location of the sprite for the character in VX.
+916	0xd345: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+918	0x7305: 7XNN: Adds NN to VX. (Carry flag is not changed)
+920	0xee: 00EE: Returns from a subroutine
+888	0x6332: 6XNN: Sets VX to NN
+890	0x640a: 6XNN: Sets VX to NN
+892	0xa3aa: ANNN: Sets I to the address NNN
+894	0xd345: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+896	0x632f: 6XNN: Sets VX to NN
+898	0x7406: 7XNN: Adds NN to VX. (Carry flag is not changed)
+900	0xa3e6: ANNN: Sets I to the address NNN
+902	0xfc33: FX33: Stores the binary-coded decimal representation of VX
+904	0xf265: FX65: Fills V0 to VX (including VX) with values from memory starting at address I
+906	0xf029: FX29: Sets I to the location of the sprite for the character in VX.
+908	0x2394: 2NNN: Calls subroutine at NNN
+916	0xd345: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+918	0x7305: 7XNN: Adds NN to VX. (Carry flag is not changed)
+920	0xee: 00EE: Returns from a subroutine
+910	0xf129: FX29: Sets I to the location of the sprite for the character in VX.
+912	0x2394: 2NNN: Calls subroutine at NNN
+916	0xd345: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+918	0x7305: 7XNN: Adds NN to VX. (Carry flag is not changed)
+920	0xee: 00EE: Returns from a subroutine
+914	0xf229: FX29: Sets I to the location of the sprite for the character in VX.
+916	0xd345: DXYN: Draws a sprite at coordinate (VX, VY) that has a width of 8 pixels and a height of N pixels.
+918	0x7305: 7XNN: Adds NN to VX. (Carry flag is not changed)
+920	0xee: 00EE: Returns from a subroutine
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
+618	0xf00a: FX0A: A key press is awaited, and then stored in VX.
